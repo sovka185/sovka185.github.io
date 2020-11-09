@@ -8,4 +8,5 @@ We choose Google as our overarching theme and we all made a web page about about
 You can navigate between these pages using the navbar at the top.
 
 Hope you like it
+
 Tristan, James, and Sofie
