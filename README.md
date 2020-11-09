@@ -7,6 +7,7 @@ member didn't show up to any of the lectures and practicals and did not answer t
 We choose Google as our overarching theme and we all made a web page about about one of its aspects (Maps, Translate, and Gmail).
 You can navigate between these pages using the navbar at the top.
 
+
 Hope you like it
 
 Tristan, James, and Sofie
